@@ -9,5 +9,11 @@ Once the quiz ends, the score will be shown. The user will then enter their init
 
 ## Screenshot And Link To The Quizzer
 
+![Screenshot of the Quizzer](quizzer-pic.png)
 
+Link to live Quizzer:  https://stever001.github.io/dev-quizzer/
 
+### Contact Me With Questions
+Steve Rouse
+steve17rouse@gmail.com
+208-794-2800
